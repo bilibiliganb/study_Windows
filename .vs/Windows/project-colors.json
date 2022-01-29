@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3818ba99-a66d-49cc-99db-4af6362c02fa": {
+      "ProjectGuid": "3818ba99-a66d-49cc-99db-4af6362c02fa",
+      "DisplayName": "Windows",
+      "ColorIndex": 0
+    },
+    "cd594e7d-9b1c-4df0-8ff9-596f1b428d7f": {
+      "ProjectGuid": "cd594e7d-9b1c-4df0-8ff9-596f1b428d7f",
+      "DisplayName": "MyWindows",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
