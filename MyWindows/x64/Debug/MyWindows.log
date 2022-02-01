@@ -1,0 +1,3 @@
+﻿  MyWindows.c
+D:\tmp\Windows\MyWindows\MyWindows.c(51,12): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  MyWindows.vcxproj -> D:\tmp\Windows\x64\Debug\MyWindows.exe
